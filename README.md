@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 <p align="center">
+ <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
