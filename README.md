@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Samridhi-98/Samridhi-98/blob/main/images/intropic.png"/>
+<img src="https://github.com/darshanparekh77/darshanparekh77/blob/main/images/intro.png"/>
 <p align="center">
 
  <img src="https://badges.pufler.dev/visits/darshanparekh77/darshanparekh77"/>
