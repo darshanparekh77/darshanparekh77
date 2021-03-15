@@ -14,7 +14,8 @@
 
 <img src="https://img.shields.io/badge/-darshahahahan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/darshahahahan/" />
 <img src="https://img.shields.io/badge/-darshanparekh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parekhdarshan07@gmail.com" />
-<img src="https://img.shields.io/badge/-darshanparekh77?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshanparekh77//" />
+<img src="https://img.shields.io/badge/-samridhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samridhi-agrawal-1713201ab//" />
+
 
 
 </p>
